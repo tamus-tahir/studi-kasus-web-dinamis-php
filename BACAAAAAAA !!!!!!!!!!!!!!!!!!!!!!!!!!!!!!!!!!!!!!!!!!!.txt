@@ -1,0 +1,24 @@
+#######    #     ###   ### ###  ###  ###   #######    #     ###  ### ### #####   
+   #       ##     ##   ##   #    #  #  #      #       ##     #    #   #   #   #  
+   #      ###     ###  ##   #    #  #         #      ###     #    #   #   #   #  
+   #      #  #    # # # #   #    #   #        #      #  #    ######   #   #  #   
+   #     #####    # # # #   #    #    ##      #     #####    #    #   #   ####   
+   #     #   ##   #  #  #   #    #     #      #     #   ##   #    #   #   #  #   
+   #    ##    #   #  #  #   #    #  #  #      #    ##    #   #    #   #   #  ##  
+  ###   ##   ### ###   ###   ####   ###      ###   ##   ### ###  ### ### ###  ## 
+
+
+PHP VERSION TEST 7.2 
+WEB INI SENGAJA TANPA CSS AGAR KITA FOKUS PERLAJARI TENTANG PHP
+
+login
+url 	: http://localhost/studi-kasus/login.php
+
+admin
+user	: admin
+pass	: admin
+
+operator
+user	: operator
+pass	: operator
+
